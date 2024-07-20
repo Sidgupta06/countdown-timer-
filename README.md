@@ -12,11 +12,4 @@
 - Show a spinner right before loading the countdown;<br>
 - Show the coming year in the background ;<br>
 
-## Project Preview 
-
-- Click Below Link <br><br>
-[Click View Project](https://mian-ali.github.io/RealTime-NewYear-Countdown/) <br>
-
-#### Project Broswer URL<br>
-https://mian-ali.github.io/RealTime-NewYear-Countdown/
 
